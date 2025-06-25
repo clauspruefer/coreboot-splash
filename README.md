@@ -14,9 +14,11 @@ The Bootsplash Logo uses the following images:
 Visit <a href="https://www.vecteezy.com/free-vector/illustration">Illustration Vectors by Vecteezy</a> to get free / professional illustrations.
 
 ## 2. Coreboot Config
-
 ```
 General
   [*] Add a bootsplash image
       bootsplash.jpg
 ```
+## 3. Image
+
+![Display Image](https://github.com/clauspruefer/coreboot-splash/blob/main/bootsplash.jpg?raw=true)

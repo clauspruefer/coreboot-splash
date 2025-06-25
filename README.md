@@ -1,4 +1,4 @@
-# coreboot-splash
+# Coreboot-Splash :gem:
 A Stylish Splash Boot-Logo For Usage With Coreboot.
 
 Use the following howto to integrate into *ThinkPad T420* or *ThinkPad X220*:
